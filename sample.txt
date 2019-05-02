@@ -1,2 +1,2 @@
 I created this GitHub Repository for AWS and DevOps projects
-This is edited to trigger build in Jenkins
+This is edited in GitHub which will trigger build in Jenkins
